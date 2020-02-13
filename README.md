@@ -1,6 +1,6 @@
 # DATA_STRUCTURE-1
-C언어로 쉽게 풀어쓴 자료구조(천인국)
-While Studying Data Structure ,I wrote code on paper & typed on computer.
+
+While Studying Data Structure ,I wrote code on paper & typed on computer.\n
 Each folder contains .c file and jpg file.
 
 
