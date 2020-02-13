@@ -1,7 +1,7 @@
 # DATA_STRUCTURE-1
 
-#While Studying Data Structure ,I wrote code on paper & typed on computer.                                                                 
-#Each folder contains .c file and jpg file(handwriting code).                                                                             
+#While Studying Data Structure ,I wrote code on paper & typed source code on computer.                                                     
+#Each folder contains .c file(source code) and jpg file(handwriting code).                                                                 
 #I Studied C언어로 쉽게 풀어쓴 자료구조 written by chun in kuk.
 
 ![1단원](https://user-images.githubusercontent.com/46515441/74413269-742c5980-4e82-11ea-872d-afed09dbca07.JPG)
