@@ -29,4 +29,13 @@
 ![4 12(2)테스트](https://user-images.githubusercontent.com/46515441/75010276-18845080-54c0-11ea-944a-57082e5d1251.JPG)
 ![4 12(3)테스트](https://user-images.githubusercontent.com/46515441/75010278-191ce700-54c0-11ea-897b-a46785c1c7e8.JPG)
 ![4 12(4)테스트](https://user-images.githubusercontent.com/46515441/75010280-191ce700-54c0-11ea-9f58-9f976037693d.JPG)
+![4 13원형연결리스트(1)](https://user-images.githubusercontent.com/46515441/75010650-01922e00-54c1-11ea-8106-9826fc3335ad.JPG)
+![4 15원형연결리스트(2)](https://user-images.githubusercontent.com/46515441/75010655-03f48800-54c1-11ea-81c4-e557c890c7d3.JPG)
+![4 15원형연결리스트(3)](https://user-images.githubusercontent.com/46515441/75010656-03f48800-54c1-11ea-9fe9-252d739494cf.JPG)
+![4 16이중연결리스트(1)](https://user-images.githubusercontent.com/46515441/75010658-048d1e80-54c1-11ea-876c-d04601da0eea.JPG)
+![4 18이중연결리스트(2)](https://user-images.githubusercontent.com/46515441/75010659-0525b500-54c1-11ea-9152-9d5206c7e29f.JPG)
+![4 18이중연결리스트(3)](https://user-images.githubusercontent.com/46515441/75010661-05be4b80-54c1-11ea-9b24-75a5e36896d4.JPG)
+![4 19이중연결리스트(4)](https://user-images.githubusercontent.com/46515441/75010664-05be4b80-54c1-11ea-8f3c-549379c77aaa.JPG)
+![4 19이중연결리스트(5)](https://user-images.githubusercontent.com/46515441/75010665-0656e200-54c1-11ea-9bed-7601206c66d9.JPG)
+![4 19이중연결리스트(6)](https://user-images.githubusercontent.com/46515441/75010666-06ef7880-54c1-11ea-8f55-7c437b917cc9.JPG)
 
