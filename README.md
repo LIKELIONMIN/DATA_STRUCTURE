@@ -47,5 +47,14 @@
 ![4 29리스트ADT테스트(3)](https://user-images.githubusercontent.com/46515441/75011254-816cc800-54c2-11ea-8f4e-bda527ec6a1c.JPG)
 ![4 29리스트ADT테스트(4)](https://user-images.githubusercontent.com/46515441/75011255-82055e80-54c2-11ea-9cf4-6dd129ce8fa2.JPG)
 ![4 29리스트ADT테스트(5)](https://user-images.githubusercontent.com/46515441/75011256-829df500-54c2-11ea-8aa2-34220fc7d32c.JPG)
+![5 1배열스택(1)](https://user-images.githubusercontent.com/46515441/75429415-1a9d5200-598d-11ea-85c1-db003764b532.JPG)
+![5 2배열스택(2)](https://user-images.githubusercontent.com/46515441/75429418-1c671580-598d-11ea-9801-ca5880ce8e4e.JPG)
+![5 3배열스택(3)](https://user-images.githubusercontent.com/46515441/75429420-1c671580-598d-11ea-96b8-549f04f546db.JPG)
+![5 4연결스택(1)](https://user-images.githubusercontent.com/46515441/75429423-1cffac00-598d-11ea-87c6-5f2e594fbd0e.JPG)
+![5 5괄호검사](https://user-images.githubusercontent.com/46515441/75429425-1d984280-598d-11ea-9dfc-bc17cf9af78d.JPG)
+![5 6후위표기(1)](https://user-images.githubusercontent.com/46515441/75429426-1d984280-598d-11ea-8098-cb09e3cd1efb.JPG)
+![5 7후위표기(2)](https://user-images.githubusercontent.com/46515441/75429428-1e30d900-598d-11ea-94b5-e07dea1a9714.JPG)
+![5 8미로탐색](https://user-images.githubusercontent.com/46515441/75429429-1ec96f80-598d-11ea-8c02-a4b66303bf15.JPG)
+
 
 
