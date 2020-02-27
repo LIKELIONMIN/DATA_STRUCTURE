@@ -55,6 +55,12 @@
 ![5 6후위표기(1)](https://user-images.githubusercontent.com/46515441/75429426-1d984280-598d-11ea-8098-cb09e3cd1efb.JPG)
 ![5 7후위표기(2)](https://user-images.githubusercontent.com/46515441/75429428-1e30d900-598d-11ea-94b5-e07dea1a9714.JPG)
 ![5 8미로탐색](https://user-images.githubusercontent.com/46515441/75429429-1ec96f80-598d-11ea-8c02-a4b66303bf15.JPG)
+![6 1원형큐](https://user-images.githubusercontent.com/46515441/75433777-dd888e00-5993-11ea-89a0-9f398ee6491c.JPG)
+![6 2연결큐(1)](https://user-images.githubusercontent.com/46515441/75433781-deb9bb00-5993-11ea-8fef-a074737584e2.JPG)
+![6 4연결큐(2)](https://user-images.githubusercontent.com/46515441/75433783-df525180-5993-11ea-8efb-390797ac064e.JPG)
+![6 5덱(1)](https://user-images.githubusercontent.com/46515441/75433786-dfeae800-5993-11ea-922f-af91898c2939.JPG)
+![6 7덱(2)](https://user-images.githubusercontent.com/46515441/75433787-dfeae800-5993-11ea-943b-9977523746ca.JPG)
+
 
 
 
