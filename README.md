@@ -72,6 +72,14 @@
 ![7 11이진트리삭제(1)](https://user-images.githubusercontent.com/46515441/76582430-9533a900-6519-11ea-9126-9edb04b191c6.JPG)
 ![7 11이진트리삭제(2)](https://user-images.githubusercontent.com/46515441/76582432-96fd6c80-6519-11ea-9a1a-974b8152ba70.JPG)
 
+![8 1히프트리(1)](https://user-images.githubusercontent.com/46515441/76583169-d88f1700-651b-11ea-8a37-23bcbb9ac067.JPG)
+![8 2히프트리(2)](https://user-images.githubusercontent.com/46515441/76583172-da58da80-651b-11ea-9d31-841c966e0458.JPG)
+![8 3히프정렬](https://user-images.githubusercontent.com/46515441/76583175-daf17100-651b-11ea-9ac7-97ca27bcce63.JPG)
+![8 5최소히프](https://user-images.githubusercontent.com/46515441/76583176-db8a0780-651b-11ea-922b-aa8d3b073616.JPG)
+![8 6허프만코드(1)](https://user-images.githubusercontent.com/46515441/76583184-ddec6180-651b-11ea-8aaf-92f856374531.JPG)
+![8 6허프만코드(2)](https://user-images.githubusercontent.com/46515441/76583186-de84f800-651b-11ea-8078-625c5b471f77.JPG)
+
+
 
 
 
