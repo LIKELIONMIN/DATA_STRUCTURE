@@ -78,6 +78,14 @@
 ![8 5최소히프](https://user-images.githubusercontent.com/46515441/76583176-db8a0780-651b-11ea-922b-aa8d3b073616.JPG)
 ![8 6허프만코드(1)](https://user-images.githubusercontent.com/46515441/76583184-ddec6180-651b-11ea-8aaf-92f856374531.JPG)
 ![8 6허프만코드(2)](https://user-images.githubusercontent.com/46515441/76583186-de84f800-651b-11ea-8078-625c5b471f77.JPG)
+![9 1선택정렬](https://user-images.githubusercontent.com/46515441/76736087-88c57f80-67a9-11ea-9671-56333d103c9a.JPG)
+![9 3삽입정렬](https://user-images.githubusercontent.com/46515441/76736091-89f6ac80-67a9-11ea-93f1-238e3f88061e.JPG)
+![9 5셀정렬](https://user-images.githubusercontent.com/46515441/76736092-8a8f4300-67a9-11ea-92ba-baf9e95ecc32.JPG)
+![9 6merge정렬](https://user-images.githubusercontent.com/46515441/76736094-8b27d980-67a9-11ea-9c6a-a038bca2dc70.JPG)
+![9 7퀵정렬](https://user-images.githubusercontent.com/46515441/76736096-8b27d980-67a9-11ea-8d51-f05eabb19f6e.JPG)
+![9 9퀵정렬(2)](https://user-images.githubusercontent.com/46515441/76736098-8bc07000-67a9-11ea-9fae-0f4f05b6b081.JPG)
+![9 10기수정렬](https://user-images.githubusercontent.com/46515441/76736099-8c590680-67a9-11ea-8b48-435e227bda7d.JPG)
+
 
 
 
