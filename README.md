@@ -87,6 +87,21 @@
 ![9 10기수정렬](https://user-images.githubusercontent.com/46515441/76736099-8c590680-67a9-11ea-8b48-435e227bda7d.JPG)
 
 
+![10 1깊이우선탐색](https://user-images.githubusercontent.com/46515441/77029110-24d7cc80-69de-11ea-80a4-aca6389e05f7.JPG)
+![10 3너비우선탐색](https://user-images.githubusercontent.com/46515441/77029113-2903ea00-69de-11ea-97c6-b90c2bb87274.JPG)
+![10 5너비우선탐색(2)](https://user-images.githubusercontent.com/46515441/77029115-299c8080-69de-11ea-8721-2955e2215423.JPG)
+![10 5너비우선탐색(3)](https://user-images.githubusercontent.com/46515441/77029116-2acdad80-69de-11ea-8d8f-99eb1a4d4016.JPG)
+![10 8크루스칼(1)](https://user-images.githubusercontent.com/46515441/77029121-2ef9cb00-69de-11ea-9ca4-30b5bba9e382.JPG)
+![10 8크루스칼(2)](https://user-images.githubusercontent.com/46515441/77029130-34571580-69de-11ea-8614-6f66200f4479.JPG)
+![10 8크루스칼(3)](https://user-images.githubusercontent.com/46515441/77029137-37ea9c80-69de-11ea-8a87-2ff1f7fd4b63.JPG)
+![10 9Prim(1)](https://user-images.githubusercontent.com/46515441/77029143-3ae58d00-69de-11ea-82ca-5ac01ee92037.JPG)
+![10 9Prim(2)](https://user-images.githubusercontent.com/46515441/77029149-3d47e700-69de-11ea-9763-e0c653177026.JPG)
+![10 10다익스트라(1)](https://user-images.githubusercontent.com/46515441/77029156-433dc800-69de-11ea-9ab0-94dc0a39b27e.JPG)
+![10 10다익스트라(2)](https://user-images.githubusercontent.com/46515441/77029164-48027c00-69de-11ea-9d35-f50ace478ffa.JPG)
+![10 11플로이드](https://user-images.githubusercontent.com/46515441/77029170-4b960300-69de-11ea-9723-e569992c12fb.JPG)
+![10 13위상정렬(1)](https://user-images.githubusercontent.com/46515441/77029174-4fc22080-69de-11ea-850d-89d7274e9dc3.JPG)
+![10 13위상정렬(2)](https://user-images.githubusercontent.com/46515441/77029182-5355a780-69de-11ea-9e85-0a32e48492ea.JPG)
+![10 13위상정렬(3)](https://user-images.githubusercontent.com/46515441/77029185-56509800-69de-11ea-8e74-3dcfc25d4eb9.JPG)
 
 
 
